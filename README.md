@@ -1,4 +1,5 @@
-#Developer Tools for Java Software Engineer in Kubernetes Cluster (microk8s)
+# Developer Environment and Tools for Software Engineer in Kubernetes Cluster
+
 Purpose of this project/repo is to provide Dev Environment and Tools as Code (Infra as Code) in local K8S Cluster
 
 ## SDK
@@ -6,11 +7,15 @@ Purpose of this project/repo is to provide Dev Environment and Tools as Code (In
  - Groovy
  - GraalVM
 
-##Build Tools
+## Build Tools
  - Apache Maven
-##Databases
+
+## Databases
  - PostgresSQL
  - Apache Cassandra
+
+## Messaging and Streaming Platforms
+ - Kafka
 
 ### PostgresSQL Database for local development
  - create and apply Secrtes object config file 
